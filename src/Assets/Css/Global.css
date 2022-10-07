@@ -1,0 +1,30 @@
+#root{
+    height: 100vh;
+}
+
+.ant-card-head-title{
+    font-size: 21px;
+}
+.ant-pagination-total-text {
+    display: none;
+}
+
+.ant-pro-table-column-setting-action-rest-button{
+    display: none;
+}
+
+.ant-pro-table-column-setting-title span {
+    display: none;
+}
+/* .ant-tooltip-inner{
+    display: none;
+} */
+
+.ant-pro-table-alert{
+    display: none;
+}
+
+
+.ant-pro-table-column-setting-list-title{
+    display: none;
+}

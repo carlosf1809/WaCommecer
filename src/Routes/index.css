@@ -1,0 +1,13 @@
+.logo {
+  height: 70px;
+  margin: 16px;
+  background-image: url("../Assets/Imagens/download.jpg");
+}
+
+.site-layout .site-layout-background {
+  background: #fff;
+}
+[data-theme="dark"] .site-layout .site-layout-background {
+  background: #141414;
+}
+
